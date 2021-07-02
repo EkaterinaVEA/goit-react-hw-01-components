@@ -28,5 +28,35 @@
     "name": "Poly",
     "isOnline": false,
     "id": 1284
+  },
+  {
+    "avatar": "https://www.flaticon.com/svg/static/icons/svg/763/763704.svg",
+    "name": "Max",
+    "isOnline": true,
+    "id": 1813
+  },
+  {
+    "avatar": "https://www.flaticon.com/svg/static/icons/svg/1998/1998671.svg",
+    "name": "Kurt",
+    "isOnline": false,
+    "id": 1138
+  },
+  {
+    "avatar": "https://www.flaticon.com/svg/static/icons/svg/1623/1623681.svg",
+    "name": "Alex",
+    "isOnline": true,
+    "id": 1211
+  },
+  {
+    "avatar": "https://www.flaticon.com/svg/static/icons/svg/2977/2977285.svg",
+    "name": "John",
+    "isOnline": true,
+    "id": 1710
+  },
+  {
+    "avatar": "https://www.flaticon.com/svg/static/icons/svg/1998/1998749.svg",
+    "name": "Peyton",
+    "isOnline": false,
+    "id": 1286
   }
 ]
