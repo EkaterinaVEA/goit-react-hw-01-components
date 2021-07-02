@@ -23,3 +23,9 @@
 .transaction tr:nth-child(even) {
   background-color: #d5eae4;
 }
+
+.transaction tr {
+  height: 56px;
+  color: #6b7780;
+  font-weight: 500;
+}
